@@ -1,0 +1,32 @@
+---------------------Purchase Order Table Output---------------------
+
+Purchase Order ID:	123
+Date Created:   	2013-04-09
+Expected Delivery Date:	2014-05-09
+Supplier:       	dsfsdf
+Status:         	Dispatched
+Completed Status:	Yes
+---------------------------------------------------------------------
+Purchase Order ID:	8797
+Date Created:   	2016-09-05
+Expected Delivery Date:	2016-10-10
+Supplier:       	erter
+Status:         	Completed
+Completed Status:	No
+---------------------------------------------------------------------
+Purchase Order ID:	retre
+Date Created:   	2013-01-01
+Expected Delivery Date:	2014-01-02
+Supplier:       	kk
+Status:         	Completed
+Completed Status:	No
+---------------------------------------------------------------------
+Purchase Order ID:	wertwe
+Date Created:   	2016-01-01
+Expected Delivery Date:	2016-01-02
+Supplier:       	wer
+Status:         	On_Hold
+Completed Status:	No
+---------------------------------------------------------------------
+------------------OutPut Finish at 2016/12/30 11:17:09 --------------
+
